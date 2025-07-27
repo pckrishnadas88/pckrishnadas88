@@ -14,9 +14,9 @@ I'm a backend engineer passionate about clean architecture, developer tooling, a
 
 [![npm version](https://img.shields.io/npm/v/fastify-permissions)](https://www.npmjs.com/package/fastify-permissions)
 [![npm downloads](https://img.shields.io/npm/dm/fastify-permissions)](https://www.npmjs.com/package/fastify-permissions)
-[![license](https://img.shields.io/github/license/krishnadas-pc/fastify-permissions)](https://github.com/krishnadas-pc/fastify-permissions/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/pckrishnadas88/fastify-permissions)](https://github.com/pckrishnadas88c/fastify-permissions/blob/main/LICENSE)
 
-🔗 [View on GitHub →](https://github.com/krishnadas-pc/fastify-permissions)
+🔗 [View on GitHub →](https://github.com/pckrishnadas88/fastify-permissions)
 
 ```bash
 npm install fastify-permissions
