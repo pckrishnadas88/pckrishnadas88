@@ -2,7 +2,7 @@
 
 I'm a backend engineer passionate about clean architecture, developer tooling, and high-performance systems. I love building plugins, and infrastructure tools that help developers move faster and safer.
 
-- 🛠️ I specialize in **Fastify**, **Node.js**, **Django**, and **RabbitMQ**
+- 🛠️ I specialize in **Fastify**, **Node.js**, **Django**
 - 🧠 I enjoy exploring distributed systems, permission frameworks, and developer ergonomics
 - 🌍 Open to remote work opportunities, especially in backend infrastructure and platform engineering
 
