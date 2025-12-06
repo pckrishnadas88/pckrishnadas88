@@ -2,7 +2,7 @@ Hey there! 👋 I'm Krishnadas — a passionate backend developer & open-source 
 
 🟢 Node.js❤️
 
-🛠 Working on **Node.js core**, **Building KQueue is a **very small, educational message queue** built using raw TCP sockets.**, and exploring **distributed systems & microservices**
+🛠 Working on **Node.js core**, **Building KQueue **very small, educational message queue** built using raw TCP sockets.**, and exploring **distributed systems & microservices**
 
 🌱 Diving deep into **low-level networking, TCP**, and **high-performance backend systems**
 
