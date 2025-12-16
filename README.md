@@ -1,13 +1,23 @@
-Hey there! 👋 I'm Krishnadas — a passionate backend developer & open-source contributor 🚀
+# Hey there! 👋 I'm Krishnadas
 
-🟢 Node.js❤️
+**Backend Developer & Open-Source Contributor** 🚀
 
-🛠 Working on **Node.js core**, **Building KQueue **very small, educational message queue** built using raw TCP sockets.**, and exploring **distributed systems & microservices**
+**Elixir Enthusiast & Runtime Developer**
 
-🌱 Diving deep into **low-level networking, TCP**, and **high-performance backend systems**
+## 🔥 Current Focus
+- Learning **Elixir** and building distributed systems
+- Exploring **BEAM/OTP** for concurrent applications
+- **Recently contributed to Elixir core** 🎯
 
-❤️ Open-source believer — every commit counts!.
+## 🛠️ Tech Stack
+- **Elixir** (Contributor - PR merged in core)
+- **Node.js** (Core Contributor)
+- **Python/Django** (13+ years production experience)
 
-How to reach me 📧 Email: [pckrishnadas88@gmail.com](mailto:pckrishnadas88@gmail.com)
+❤️ Open-source believer — every commit counts!
 
-💬 Twitter / X: @pckrishnadas88
+---
+
+📧 **Email**: [pckrishnadas88@gmail.com](mailto:pckrishnadas88@gmail.com)  
+🐦 **Twitter/X**: [@pckrishnadas88](https://twitter.com/pckrishnadas88)  
+💻 **GitHub**: [pckrishnadas88](https://github.com/pckrishnadas88)
