@@ -1,15 +1,39 @@
 # Hey there! 👋 I'm Krishnadas
+# Backend & Infrastructure Engineer
 
-**Backend Developer & Open-Source Contributor** 🚀
+Building low-level concurrency, runtime, and distributed systems primitives inspired by Erlang/OTP.
 
-## 🛠️ Tech Stack
-- **Elixir** (Contributor - PR merged in core)
-- **Node.js** (Core Contributor)
-- **Python/Django/Node.js/PHP** (13+ years production experience)
+## Current Focus
 
-❤️ Open-source believer — every commit counts!
+* Async runtimes
+* Actor-model systems
+* Supervision primitives
+* Worker orchestration
+* Distributed systems concepts
+* High-performance Node.js infrastructure tooling
 
----
+## Tech Stack
+
+* Node.js
+* Erlang
+* Elixir
+* Python
+* Django
+* PHP
+
+## Open Source
+
+* Contributor to Elixir ecosystem
+* Building infrastructure-focused OSS in Node.js
+* Interested in concurrency, fault tolerance, and runtime architecture
+
+## Philosophy
+
+Learning systems by building them:
+mailboxes, actor runtimes, supervisors, queues, and distributed primitives.
+
+❤️ Open-source believer — every commit compounds.
+
 
 📧 **Email**: [pckrishnadas88@gmail.com](mailto:pckrishnadas88@gmail.com)  
 🐦 **Twitter/X**: [@pckrishnadas88](https://twitter.com/pckrishnadas88)  
