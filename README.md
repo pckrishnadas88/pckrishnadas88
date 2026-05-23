@@ -23,7 +23,7 @@ Building low-level concurrency, runtime, and distributed systems primitives insp
 
 ## Open Source
 
-* Contributor to Elixir ecosystem
+* Contributor to Node.js Runtime & Elixir ecosystem
 * Building infrastructure-focused OSS in Node.js
 * Interested in concurrency, fault tolerance, and runtime architecture
 
